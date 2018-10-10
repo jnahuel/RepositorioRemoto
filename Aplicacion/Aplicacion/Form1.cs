@@ -15,6 +15,7 @@ namespace Aplicacion
         public Form1()
         {
             InitializeComponent();
+
         }
     }
 }
